@@ -37,6 +37,7 @@
     "website": "6-s897-machine-learning-for-healthcare-spring-2019"
   },
   "course_title": "Machine Learning for Healthcare",
+  "hide_download": true,
   "course_description": "This course introduces students to machine learning in healthcare, including the nature of clinical data and the use of machine learning for risk stratification, disease progression modeling, precision medicine, diagnosis, subtype discovery, and improving clinical workflows.\n",
   "department_numbers": [
     "6",
@@ -48,6 +49,7 @@
     "content": "05773ee8-0a9c-9b68-419a-c9003cfbf20d",
     "website": "6-s897-machine-learning-for-healthcare-spring-2019"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Videos",
     "Lecture Notes",

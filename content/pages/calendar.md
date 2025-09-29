@@ -3,6 +3,8 @@ content_type: page
 description: Calendar with session topics and key dates for 6.S897 Machine Learning
   for Healthcare.
 draft: false
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -44,7 +46,7 @@ Problem Set 1 Out
 
 Risk Stratification, Part 1
 
-Discussant: {{% resource_link "5e873fef-79cd-4d6d-8667-6bf01c61837d" "Leonard D'Avolio" %}}
+Discussant: [Leonard D'Avolio](https://scholar.harvard.edu/len/home)
 
 {{< tdclose >}}{{< tdopen >}}
 Reading Questions
@@ -74,7 +76,7 @@ Problem Set 2 Out
 
 Natural Language Processing (NLP), Part 1
 
-Discussant: {{% resource_link "e5a04597-62c0-42e5-ba75-ed8bb9361e28" "Katherine Liao" %}}
+Discussant: [Katherine Liao](https://physiciandirectory.brighamandwomens.org/details/221/katherine-liao-rheumatology-boston)
 
 {{< tdclose >}}{{< tdopen >}}
 Reading Questions
@@ -94,7 +96,7 @@ Problem Set 3 Out
 
 Translating Technology into the Clinic
 
-Discussant: {{% resource_link "09cc4f28-9fea-4926-a3fd-272ceadc250d" "Adam Wright" %}}
+Discussant: [Adam Wright](https://dbmi.hms.harvard.edu/people/adam-wright)
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -104,7 +106,7 @@ Discussant: {{% resource_link "09cc4f28-9fea-4926-a3fd-272ceadc250d" "Adam Wrigh
 
 Machine Learning for Cardiology
 
-Guest Lecture: {{% resource_link "0e3a2958-8f4e-43e1-acc7-474a64a9dcda" "Rahul Deo" %}}
+Guest Lecture: [Rahul Deo](https://www.onebraveidea.org/team/rahul-deo/)
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -126,7 +128,7 @@ Reading Questions
 
 Machine Learning for Pathology
 
-Guest Lecture: {{% resource_link "db798b68-da8c-4232-add7-70c313a6beba" "Andy Beck" %}}
+Guest Lecture: [Andy Beck](https://www.pathai.com/about-us/andy-beck/)
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -140,7 +142,7 @@ Problem Set 4 Due
 
 Machine Learning for Mammography 
 
-Guest Lecture: {{% resource_link "8d5d0328-e2c2-4661-a92e-3621dc5d22d2" "Connie Lehman" %}}, {{% resource_link "b8a7d7f2-efdb-4578-a086-7618cc0e4154" "Adam Yala" %}}
+Guest Lecture: [Connie Lehman](https://www.massgeneral.org/doctors/19730/connie-lehman), [Adam Yala](http://adamyala.csail.mit.edu/)
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -180,7 +182,7 @@ Reading Questions
 
 Reinforcement Learning, Part 2
 
-Guest Lecture: {{% resource_link "34e59a39-afb8-443d-ac29-01e4331b33d1" "Barbra Dickerman" %}}
+Guest Lecture: [Barbra Dickerman](https://scholar.google.com/citations?user=wDxSMh8AAAAJ&hl=en)
 
 Evaluating Dynamic Treatment Strategies
 
@@ -220,11 +222,11 @@ Automating Clinical Workflows
 
 Regulation of ML/AI in the US
 
-Guest Lecture: {{% resource_link "0a96a198-d3b0-4e30-975b-ef69b1128389" "Andy Coravos" %}}
+Guest Lecture: [Andy Coravos](http://www.andreacoravos.com/)
 
 Human Subjects Research
 
-Guest Lecture: {{% resource_link "5baf4bcb-c2ad-4e9e-8d27-ffe415a1d847" "Mark Shervey" %}}
+Guest Lecture: [Mark Shervey](https://twitter.com/markshervey)
 
 {{< tdclose >}}{{< tdopen >}}
 Reading Questions

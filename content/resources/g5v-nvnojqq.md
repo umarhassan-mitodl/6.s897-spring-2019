@@ -4,6 +4,8 @@ description: ''
 file: /courses/6-s897-machine-learning-for-healthcare-spring-2019/25c5d78a93652d57fb85d2dd3d512930_g5v-NvNoJQQ.srt
 file_size: 94054
 file_type: application/x-subrip
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

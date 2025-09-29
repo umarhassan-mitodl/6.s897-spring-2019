@@ -2,6 +2,8 @@
 content_type: page
 description: Syllabus with course description and grading guidelines for 6.S897 Machine
   Learning for Healthcare.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
