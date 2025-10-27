@@ -2,8 +2,6 @@
 content_type: page
 description: Full lecture slides and lecture notes for 6.S897 Machine Learning for
   Healthcare.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

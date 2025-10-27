@@ -2,8 +2,6 @@
 content_type: page
 description: Final project instructions and guidelines for for 6.S897 Machine Learning
   for Healthcare.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -54,7 +52,7 @@ Write-Up Guidelines
 *   You are expected to turn in a PDF of your write-up. We strongly encourage you to open source your code and submit a link to it as part of your submission (e.g. a Github repository). You should include a readme file with instruction on how to reproduce your results as well as all the data pre-processing and analysis code. Please do not include any proprietary data in your submission.
 *   Each team is expected to turn in a single project report of length at most 2n+2 pages where n is the number of students in the team. References are not counted toward page limit.
 *   You are required to include a section that clearly outlines the contributions of each team member.
-*   You may use any template you want. If you are looking for a clear template, we recommend the [MLHC template (ZIP)](https://www.mlforhc.org/s/mlhc.zip) This file contains 1 .jpeg, 1 .tex, 1 .pdf, 1 .sty, and 1 .cls file.
+*   You may use any template you want. If you are looking for a clear template, we recommend the {{% resource_link "258a9dc3-0ea4-4371-9018-3910c449b1b1" "MLHC template (ZIP)" %}} This file contains 1 .jpeg, 1 .tex, 1 .pdf, 1 .sty, and 1 .cls file.
 *   We encourage you to include the following sections in your writeup:
     1.  _Introduction_: This section should include a brief explanation of your problem and its clinical importance. You should briefly explain your basic approach and your main conclusions. A figure is often helpful to motivate the work.
     2.  _Related work_: This section should highlight previous work related to your problem and should put your work in a broader context. It may also include a comparison of why previous approaches could not be used to solve your particular problem.
